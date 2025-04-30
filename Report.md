@@ -114,6 +114,7 @@ The solution we've demonstrated locally can be seamlessly moved to Microsoft Azu
 **Conclusion**
 
 The microservice architecture implemented for the BeStrong application provides a solid foundation for future growth and innovation. By adopting Kubernetes, your business is positioned to leverage modern cloud technologies that can adapt to changing market demands while maintaining cost efficiency and reliability.
+
 **We're excited to partner with you on this journey toward a more agile and resilient technology infrastructure that supports your business goals.**
 
 **Diagram:**
