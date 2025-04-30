@@ -1,4 +1,5 @@
 ***HOMEWORK 24.04***
+
 ___________________________________________________________________
 
 **TASK 1: Deploy and test a sample app**
@@ -38,3 +39,7 @@ Deploy K8s manifests:
 Deployed app:
 
 ![swagger](/images/swagger.png)
+
+___________________________________________________________________
+
+**TASK 3: Report and diagram**
