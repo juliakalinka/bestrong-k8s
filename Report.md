@@ -1,3 +1,6 @@
+***HOMEWORK 24.04***
+___________________________________________________________________
+
 **TASK 1: Deploy and test a sample app**
 
 Clone repository:
@@ -16,7 +19,7 @@ Get pods and get services:
 
 ![guestbook get pods get services](/images/guestbook_get.png)
 
-Get pods and get services:
+Deployed guestbook:
 
 ![guestbook ready](/images/guestbook_ready.png)
 
