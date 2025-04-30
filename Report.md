@@ -107,8 +107,11 @@ Kubernetes acts like the restaurant manager, ensuring everything runs smoothly b
 The solution we've demonstrated locally can be seamlessly moved to Microsoft Azure's cloud platform. This transition will bring additional benefits:
 
 **Global Reach:** Deploy your application closer to your users around the world
+
 **Enhanced Security:** Leverage Azure's enterprise-grade security capabilities
+
 **Integrated Services:** Easily connect with other Azure services like databases, monitoring, and analytics
+
 **Automated Updates:** Reduce maintenance efforts with managed Kubernetes services (AKS)
 
 **Conclusion**
